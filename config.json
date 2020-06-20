@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "49x1hGwdTSXEN8xi2Nja9ZWkEFR31a5nYMJbjPeY3J1ABhbbufpAygu79R8meBVbqZWNHnaP45EmiCZnYonAouSK3JjDjtR",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
